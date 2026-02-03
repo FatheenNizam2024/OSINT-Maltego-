@@ -2,6 +2,8 @@
 
 OSINT means collecting and gathering information from publicly available sources, like google, Social medias like, Facebook, WhatsApp, telegram, Instagram etc….
 
+
+
 ## Who Uses OSINT?
 
 - National Security & Law Enforcement: For global awareness, threat assessment, and investigations.
